@@ -14,6 +14,7 @@ header {
 }
 header .logo {
     float: left;
+    
 }
 header .menu {
     float: right;
@@ -35,7 +36,7 @@ header.menu, ul, li, a:hover {
     color:cyan;
 }
 .btn {
-    background-color: #fff700;
+    background-color: #52B1CF;
     color: #000;
     padding: 14px 27px;
     border-top-left-radius:15px ;
