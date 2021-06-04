@@ -12,10 +12,10 @@ You can forke the project.
 ## dependencies
 -Monitor milk production and sale,for Brookside Dairies.
 ## Technologies Used
-### HTML 
-### CSS  
-### JAVASCRIPT
-### Boostsrap
+#### HTML 
+#### CSS  
+#### JAVASCRIPT
+#### Boostsrap
 ## contact 
 #### 072555466. email:briankulei98@gmail.com. 
 ## license information.
