@@ -2,7 +2,7 @@
 [live demo](https://brian6382.github.io/javascript_project/).
 ##  project description
 My Portfolio Project 
-![Screenshot from 2021-05-02 18-19-37](https://user-images.githubusercontent.com/82508349/116818236-047fb880-ab73-11eb-846a-6299f77c5a05.png)
+![Screenshot from 2021-06-04 18-17-05](https://user-images.githubusercontent.com/82508349/120824495-3369bf80-c561-11eb-8edd-b146115843d8.png)
 ## setup & installation
 - copy the url on arrow down.
 - Clone on your computer.
