@@ -34,3 +34,31 @@ header.menu, ul, li, a {
 header.menu, ul, li, a:hover {
     color:cyan;
 }
+.btn {
+    background-color: #fff700;
+    color: #000;
+    padding: 14px 27px;
+    border-top-left-radius:15px ;
+    border-bottom-right-radius:15px ;
+}
+#a:hover{
+    border-radius: 15px;
+    border-top-left-radius:0 ;
+    border-bottom-right-radius:0 ;
+}
+.home .container {
+    max-width: 1266;
+    margin: 0 auto;
+}
+.home .person {
+    float: right;
+    margin: 70px 180px 0;
+    position: relative;
+    border-radius: 70px 0 70px 0;
+    overflow: hidden;
+}
+.home-text {
+    color: #000;
+    margin-top: 220px;
+    position: absolute;
+}
