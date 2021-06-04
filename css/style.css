@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+}
+body {
+    background: #fff;
+    font-family: Open sans;
+}
+header {
+    padding: 40px 50px;
+
+}
+header .logo {
+    float: left;
+}
+header .menu {
+    float: right;
+}
+header.menu, ul, li {
+    display: inline;
+    margin: 0 20px;
+}
+header.menu, ul, li:last-child {
+    margin-right: 0;
+}
+header.menu, ul, li, a {
+    color: #000;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: all ease 0.5s;
+}
+header.menu, ul, li, a:hover {
+    color:cyan;
+}
