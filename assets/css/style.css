@@ -97,7 +97,7 @@ h1, h2, h3, h4, h5, h6 {
   align-items: center;
   justify-content: space-between;
   padding: 10px 15px;
-  color: cyan;
+  color: #fff;
   white-space: nowrap;
   transition: 0.3s;
   font-size: 12px;
@@ -114,7 +114,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
-  color: green;
+  color: #ffb727;
 }
 
 .navbar .dropdown ul {
@@ -576,7 +576,7 @@ section {
 }
 
 .about .image {
-  background: url("../img/kulei.jpg") center center no-repeat;
+  background: url("../img/kulei.jpeg") center center no-repeat;
   background-size: cover;
   min-height: 500px;
 }
@@ -679,7 +679,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# My project
+# My Services
 --------------------------------------------------------------*/
 .project .icon-box {
   padding: 30px;
