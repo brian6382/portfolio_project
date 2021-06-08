@@ -2,7 +2,7 @@
 [live demo](https://brian6382.github.io/portfolio_project/).
 ##  project description
 #### My Portfolio Project 
-![Screenshot from 2021-06-07 15-34-40](https://user-images.githubusercontent.com/82508349/121017504-05c18800-c7a6-11eb-8e30-e1385a3f4a5a.png)
+![Screenshot from 2021-06-08 12-41-23](https://user-images.githubusercontent.com/82508349/121162874-fcdcbf00-c856-11eb-9051-34c875a46462.png)
 ## setup & installation
 - copy the url on arrow down.
 - Clone on your computer.
